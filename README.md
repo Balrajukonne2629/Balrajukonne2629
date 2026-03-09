@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # Hi, I'm Balraju 👋
 
@@ -35,5 +34,4 @@ An event management platform being developed as a team project.
 
 LinkedIn: https://www.linkedin.com/in/balraju-konne-319247348
 ## GitHub Stats
-
-![Balraju's GitHub stats](https://github-readme-stats.vercel.app/api?username=Balrajukonne2629&show_icons=true)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Balrajukonne2629)
