@@ -33,5 +33,6 @@ An event management platform being developed as a team project.
 ## Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/balraju-konne-319247348
+
 ## GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Balrajukonne2629&theme=dark&border=30363d&fire=e44c27&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&currStreakLabel=e44c27)](https://git.io/streak-stats)
