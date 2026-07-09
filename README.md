@@ -42,8 +42,8 @@ Ongoing repository of solved problems covering arrays, hashing, trees, graphs, r
 
 ## Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/balraju-konne
-LeetCode: https://leetcode.com/u/balrajukonne/
+-LinkedIn: https://www.linkedin.com/in/balraju-konne
+-LeetCode: https://leetcode.com/u/balrajukonne/
 - Email: balrajukonne@gmail.com
 
 ## GitHub Stats
