@@ -2,9 +2,9 @@
 
 Full-stack developer (MERN / Next.js) and B.E. IT student at CBIT (2024–2028), building end-to-end web applications and sharpening my DSA fundamentals.
 
-- 🎓 B.E. Information Technology, CBIT | CGPA: 8.37/10
+- 🎓 B.E. Information Technology, CBIT | CGPA: 8.43/10
 - 🏆 National Finalist & Team Lead — Meta PyTorch Hackathon 2026
-- 💻 100+ problems solved on LeetCode (50 Days Badge, 2025)
+- 💻 150+ problems solved on LeetCode
 - 🌱 Currently learning: Machine Learning
 - 🤝 Hacktoberfest 2025 contributor
 - 📌 Student Coordinator, Sudhee 2025
